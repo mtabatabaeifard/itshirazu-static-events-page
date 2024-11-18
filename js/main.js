@@ -20,3 +20,4 @@ regMethod.addEventListener('change',(e) => {
         amount.innerText = " نوع ثبت نام خود را انتخاب کنید ";
     }
 })
+
